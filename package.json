@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-smmcat-baaudio",
-  "description": "蔚蓝档案学生语音包",
-  "version": "0.0.1",
+  "description": "蔚蓝档案学生语音包(数据来源：kivo.wiki)",
+  "version": "0.0.4",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -9,13 +9,11 @@
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
   "keywords": [
     "chatbot",
     "koishi",
     "plugin"
   ],
-  "devDependencies": {},
   "peerDependencies": {
     "koishi": "4.18.0"
   }
